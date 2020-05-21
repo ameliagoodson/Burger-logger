@@ -1,0 +1,30 @@
+h1 {
+    display: inline-block;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  #img {
+      display: inline-block
+  }
+  
